@@ -1,4 +1,4 @@
-# Hi there, I'm, Fidelis 👋
+# Hi there, I'm Fidelis 👋
 
 ### This is my personal profile showing the stats of the technologies I use.
 
